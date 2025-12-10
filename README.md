@@ -1,4 +1,4 @@
-# 🚀 DN-BOT-Session-Generator
+# 🚀 Dn-bot-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -53,8 +53,8 @@ Generate session IDs for WhatsApp bots using [`DARK NICK`](https://github.com/wh
 ## 👑 Owner
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://github.com/XdKing2.png" width="200" height="200" alt="Malvin King"/>
+  <a href="https://files.catbox.moe/3yzrc6.jpg">
+    <img src="https://files.catbox.moe/3yzrc6.jpg" width="200" height="200" alt="DARK NICK"/>
   </a>
 </p>
 
