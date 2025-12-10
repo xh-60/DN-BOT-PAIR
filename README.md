@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 DN-BOT-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -12,7 +12,7 @@
 
 [![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/XdKing2/malvin-pair/fork)
 
-Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
+Generate session IDs for WhatsApp bots using [`DARK NICK`](https://github.com/whiskeysockets/baileys), with secure **DARK NICK** cloud storage and a fast web QR login.
 
 > ⚠️ This is the **same code** used on my live site:  
 > 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
@@ -22,8 +22,8 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 ## 🧩 Features
 
-- 🔐 Generates sessions for **any Baileys bot**
-- ☁️ Stores sessions securely with **MEGA**
+- 🔐 Generates sessions for **DN BOT**
+- ☁️ Stores sessions securely with **DARK NICK**
 - 📱 Web-based **QR Pairing & Pair Pairing**
 - 🚀 One-click deploy to:
   - Heroku
@@ -58,7 +58,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/263780166288)
+📬 [`Contact on WhatsApp`](https://wa.me/918145321510)
 
 ---
 
